@@ -1,0 +1,10 @@
+name: Cities
+main: com.dontpanic.cities.CitiesPlugin
+version: 1.0
+commands:
+    city:
+        description: Create, remove and alter cities
+        usage: /<command> <action>
+    plot:
+        description: Create, remove, alter, buy and sell plots
+        usage: /<command> <action>

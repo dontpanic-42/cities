@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Implementation-Title: Cities
+Implementation-Version: 1.0
+Cities-Version: 1.0
+Class-Path: WorldEdit.jar WorldGuard/WorldEdit.jar
+
